@@ -49,7 +49,7 @@ All these articles' links are fetched from [medium.com](https://medium.com/) (A 
 
 ## Contribution
 
-Could you make a Pull Request to Add articles containing more keywords in the future? I hope so
+Could you make a Pull Request to Add articles containing more useful keywords in the future? I hope so :)
 
 ## Author
 
