@@ -1,0 +1,148 @@
+# Tryhackme and HTB (Hack The Box)
+
+- **2019-10-15 - FREE** - [Hackthebox — Celestial](https://medium.com/@dogukansaner/hackthebox-celestial-94c987ba1230)  By  [dogukansaner](https://medium.com/@dogukansaner) - **LIKES: 3**
+- **2020-01-04 - FREE** - [HacktheBox — Craft](https://infosecwriteups.com/hackthebox-craft-bf892b02fb90)  By  [sif0](https://medium.com/@sif0) - **LIKES: 81**
+- **2020-01-19 - FREE** - [HackTheBox — Player](https://yan1x0s.medium.com/hackthebox-player-85ee98777918)  By  [yan1x0s](https://medium.com/@yan1x0s) - **LIKES: 20**
+- **2020-02-17 - FREE** - [HackTheBox — Player](https://shellbr3ak.medium.com/hackthebox-player-71f9d5f60cd1)  By  [shellbr3ak](https://medium.com/@shellbr3ak) - **LIKES: 14**
+- **2020-02-23 - FREE** - [HackTheBox — Zetta](https://yan1x0s.medium.com/hackthebox-zetta-8a11e06e4c16)  By  [yan1x0s](https://medium.com/@yan1x0s) - **LIKES: 20**
+- **2020-03-15 - FREE** - [Inclusion TryHackMe (THM)](https://musyokaian.medium.com/inclusion-tryhackme-thm-b5e83c7be89)  By  [musyokaian](https://medium.com/@musyokaian) - **LIKES: 35**
+- **2020-04-11 - FREE** - [Traverxec — HackTheBox Writeup](https://infosecwriteups.com/traverxec-hackthebox-writeup-ed58642e94d8)  By  [preethambomma](https://medium.com/@preethambomma) - **LIKES: 64**
+- **2020-04-25 - FREE** - [Hack The Box :: Beep](https://medium.com/hackthebox-writeups-by-jsinix/hack-the-box-beep-1293837d2293)  By  [jasmeetsaroyasingh](https://medium.com/@jasmeetsaroyasingh) - **LIKES: 0**
+- **2020-04-26 - FREE** - [Hack The Box :: Optimum](https://medium.com/hackthebox-writeups-by-jsinix/hack-the-box-optimum-a1d70315a623)  By  [jasmeetsaroyasingh](https://medium.com/@jasmeetsaroyasingh) - **LIKES: 0**
+- **2020-05-02 - FREE** - [OpenAdmin — HackTheBox Writeup](https://infosecwriteups.com/openadmin-hackthebox-writeup-ffbc3f9c84c9)  By  [preethambomma](https://medium.com/@preethambomma) - **LIKES: 18**
+- **2020-05-23 - FREE** - [Peak Hill WalkThrough TryHackMe](https://musyokaian.medium.com/peak-hill-walkthrough-tryhackme-7303b7551ca0)  By  [musyokaian](https://medium.com/@musyokaian) - **LIKES: 55**
+- **2020-06-21 - FREE** - [ServMon HackTheBox Walkthrough](https://musyokaian.medium.com/servmon-hackthebox-walkthrough-71785cae4c35)  By  [musyokaian](https://medium.com/@musyokaian) - **LIKES: 4**
+- **2020-07-04 - FREE** - [HacktheBox Forwardslash Write-up](https://infosecwriteups.com/hackthebox-forwardslash-write-up-27b0205db301)  By  [swar7233](https://medium.com/@swar7233) - **LIKES: 4**
+- **2020-07-06 - FREE** - [TryHackMe: LFI Basics](https://ratiros01.medium.com/tryhackme-lfi-basics-1c8194f30c61)  By  [ratiros01](https://medium.com/@ratiros01) - **LIKES: 11**
+- **2020-07-31 - PAID** - [TryHackMe: Vulnversity](https://medium.com/shellpwn/tryhackme-vulnversity-807a6bc46764)  By  [0xaadi](https://medium.com/@0xaadi) - **LIKES: 1**
+- **2020-08-15 - FREE** - [Bolt TryHackMe Exploit explanation](https://musyokaian.medium.com/bolt-tryhackme-exploit-explanation-452eeed39a36)  By  [musyokaian](https://medium.com/@musyokaian) - **LIKES: 0**
+- **2020-08-16 - FREE** - [TryHackMe: Inclusion(LFI) Walkthrough](https://sakshiaggarwal0502.medium.com/tryhackme-inclusion-lfi-walkthrough-23f88ad65a2c)  By  [sakshiaggarwal0502](https://medium.com/@sakshiaggarwal0502) - **LIKES: 6**
+- **2020-08-25 - PAID** - [TryHackMe: Juice Shop Walk-Through](https://medium.com/@n3on_one/tryhackme-juice-shop-walk-through-c3ac3101303d)  By  [n3on_one](https://medium.com/@n3on_one) - **LIKES: 3**
+- **2020-08-30 - FREE** - [Kiba TryHackMe Walkthrough](https://musyokaian.medium.com/kiba-tryhackme-walkthrough-a779b5369cc0)  By  [musyokaian](https://medium.com/@musyokaian) - **LIKES: 1**
+- **2020-08-30 - PAID** - [kiba-TryHackMe](https://0xsanz.medium.com/kiba-tryhackme-728c6f433067)  By  [0xsanz](https://medium.com/@0xsanz) - **LIKES: 0**
+- **2020-09-05 - FREE** - [Remote HackTheBox Walkthrough](https://musyokaian.medium.com/remote-hackthebox-walkthrough-208c51df95a9)  By  [musyokaian](https://medium.com/@musyokaian) - **LIKES: 4**
+- **2020-09-06 - FREE** - [Remote — HackTheBox Writeup OSCP Style](https://infosecwriteups.com/remote-hackthebox-writeup-oscp-style-1e35ed0f9951)  By  [preethambomma](https://medium.com/@preethambomma) - **LIKES: 13**
+- **2020-11-19 - FREE** - [TryHackMe: Ignite](https://0xnirvana.medium.com/tryhackme-ignite-d27bdf99fdc1)  By  [0xnirvana](https://medium.com/@0xnirvana) - **LIKES: 10**
+- **2020-11-20 - PAID** - [TryHackMe: Network Services Room Writeup](https://medium.com/dont-code-me-on-that/tryhackme-network-services-room-writeup-e00f88b7b599)  By  [syistyping](https://medium.com/@syistyping) - **LIKES: 336**
+- **2020-12-05 - FREE** - [Unbaked Pie TryHackMe Walkthrough](https://musyokaian.medium.com/unbaked-pie-tryhackme-walkthrough-deb7a649bae9)  By  [musyokaian](https://medium.com/@musyokaian) - **LIKES: 10**
+- **2021-01-29 - FREE** - [Ghizer TryHackMe WalkThrough](https://infosecwriteups.com/ghizer-tryhackme-walkthrough-6028bd94b02c)  By  [aydianosec](https://medium.com/@aydianosec) - **LIKES: 60**
+- **2021-01-30 - FREE** - [[TryHackMe] Ra 2 — Write-Up](https://arkadiusz-kotela.medium.com/tryhackme-ra-2-write-up-3bb8efafe08b)  By  [arkadiusz-kotela](https://medium.com/@arkadiusz-kotela) - **LIKES: 7**
+- **2021-02-04 - FREE** - [Bolt-TryHackMe WriteUp](https://astikrawat.medium.com/bolt-tryhackme-writeup-9497c28ec213)  By  [astikrawat](https://medium.com/@astikrawat) - **LIKES: 2**
+- **2021-02-05 - FREE** - [TryHackMe’s Archangel by archangel — Walkthrough](https://swehtpantz.medium.com/tryhackmes-archangel-by-archangel-walkthrough-a3c823bb6426)  By  [swehtpantz](https://medium.com/@swehtpantz) - **LIKES: 8**
+- **2021-02-08 - FREE** - [TryHackMe’s Toc2 by PoloMints — Writeup](https://swehtpantz.medium.com/tryhackmes-toc2-by-polomints-writeup-3b275687df52)  By  [swehtpantz](https://medium.com/@swehtpantz) - **LIKES: 10**
+- **2021-02-18 - FREE** - [TryHackMe’s Watcher by USWCSS — Walkthrough by swehtpantz](https://swehtpantz.medium.com/tryhackmes-watcher-by-uswcss-walkthrough-by-swehtpantz-e378388fc183)  By  [swehtpantz](https://medium.com/@swehtpantz) - **LIKES: 32**
+- **2021-02-18 - PAID** - [Watcher — TryHackMe](https://0xsanz.medium.com/watcher-tryhackme-d7defe292fb8)  By  [0xsanz](https://medium.com/@0xsanz) - **LIKES: 2**
+- **2021-03-06 - FREE** - [Team TryHackMe Walkthrough](https://musyokaian.medium.com/team-tryhackme-walkthrough-a7ec9eb9adb7)  By  [musyokaian](https://medium.com/@musyokaian) - **LIKES: 141**
+- **2021-03-20 - FREE** - [VulnNet TryHackMe walkthrough](https://musyokaian.medium.com/vulnnet-tryhackme-walkthrough-1336fd4a6e7a)  By  [musyokaian](https://medium.com/@musyokaian) - **LIKES: 6**
+- **2021-03-27 - FREE** - [VulnNet: Node TryHackMe Walkthrough](https://musyokaian.medium.com/vulnnet-node-tryhackme-walkthrough-8633d0f57db6)  By  [musyokaian](https://medium.com/@musyokaian) - **LIKES: 25**
+- **2021-04-24 - FREE** - [HackTheBox Cyber Apocalypse 2021 CTF](https://musyokaian.medium.com/hackthebox-cyber-apocalypse-2021-ctf-5fe5a677b8c3)  By  [musyokaian](https://medium.com/@musyokaian) - **LIKES: 51**
+- **2021-05-02 - FREE** - [TryHackMe | UltraTech](https://farisarch.medium.com/tryhackme-ultratech-71fe549091e0)  By  [farisarch](https://medium.com/@farisarch) - **LIKES: 0**
+- **2021-06-12 - FREE** - [Hackthebox — Monitors walkthrough](https://kavigihan.medium.com/hackthebox-monitors-walkthrough-52597800ff31)  By  [kavigihan](https://medium.com/@kavigihan) - **LIKES: 51**
+- **2021-06-13 - FREE** - [Mustacchio on TryHackMe by zyeinn -Walkthrough](https://swehtpantz.medium.com/mustacchio-on-tryhackme-by-zyeinn-walkthrough-7f85d2d57732)  By  [swehtpantz](https://medium.com/@swehtpantz) - **LIKES: 6**
+- **2021-06-13 - PAID** - [Mustacchio — TryHackMe](https://0xsanz.medium.com/mustacchio-tryhackme-698cb77f4b8b)  By  [0xsanz](https://medium.com/@0xsanz) - **LIKES: 2**
+- **2021-06-20 - FREE** - [TryHackMe: Vulnversity](https://infosecwriteups.com/tryhackme-vulnversity-70ceeb601757)  By  [utkarshrai28](https://medium.com/@utkarshrai28) - **LIKES: 330**
+- **2021-06-21 - FREE** - [TryHackMe: Blue](https://infosecwriteups.com/tryhackme-blue-671e0095bc45)  By  [utkarshrai28](https://medium.com/@utkarshrai28) - **LIKES: 350**
+- **2021-06-30 - FREE** - [Jack-of-All-Trades ( TRYHACKME)](https://ekimisik.medium.com/jack-of-all-trades-tryhackme-1dcadaac36eb)  By  [ekimisik](https://medium.com/@ekimisik) - **LIKES: 27**
+- **2021-07-13 - FREE** - [TryHackMe-HackPark](https://sparshjazz.medium.com/tryhackme-hackpark-c329635217d8)  By  [sparshjazz](https://medium.com/@sparshjazz) - **LIKES: 26**
+- **2021-08-12 - FREE** - [HackTheBox-Love](https://arz101.medium.com/hackthebox-love-c66fed52d319)  By  [arz101](https://medium.com/@arz101) - **LIKES: 0**
+- **2021-09-04 - FREE** - [TryHackMe | Poster Writeup](https://farisarch.medium.com/tryhackme-poster-writeup-f47e44025117)  By  [farisarch](https://medium.com/@farisarch) - **LIKES: 1**
+- **2021-09-08 - FREE** - [Horizontall — Hackthebox walkthrough](https://kavigihan.medium.com/horizontall-hackthebox-walkthrough-2df40eae71a8)  By  [kavigihan](https://medium.com/@kavigihan) - **LIKES: 2**
+- **2021-09-13 - FREE** - [DOCTOR — HackTheBox WriteUp](https://medium.com/@v1per/doctor-hackthebox-writeup-307c5ec6fda4)  By  [v1per](https://medium.com/@v1per) - **LIKES: 12**
+- **2021-10-08 - FREE** - [Inclusion TryHackme](https://infosecwriteups.com/inclusion-tryhackme-e69d39095bab)  By  [mukibas37](https://medium.com/@mukibas37) - **LIKES: 1**
+- **2021-10-10 - FREE** - [Jason TryHackMe Walkthrough](https://musyokaian.medium.com/jason-tryhackme-walkthrough-e37371eae6e0)  By  [musyokaian](https://medium.com/@musyokaian) - **LIKES: 17**
+- **2021-10-24 - FREE** - [HackTheBox-Spider](https://arz101.medium.com/hackthebox-spider-aa961f97a440)  By  [arz101](https://medium.com/@arz101) - **LIKES: 2**
+- **2021-11-04 - FREE** - [Temple — TryHackMe](https://medium.com/@0xtd/temple-tryhackme-d8719dabbaf3)  By  [0xtd](https://medium.com/@0xtd) - **LIKES: 148**
+- **2021-12-06 - FREE** - [[Day 5] Web Exploitation Pesky Elf Forum TryHackMe Advent Of Cyber](https://musyokaian.medium.com/day-5-web-exploitation-pesky-elf-forum-tryhackme-advent-of-cyber-11b6277f4fcb)  By  [musyokaian](https://medium.com/@musyokaian) - **LIKES: 1**
+- **2021-12-16 - FREE** - [HackTheBox: Cap](https://systemweakness.com/hackthebox-cap-243f4c056c8a)  By  [ashlyncmatthews](https://medium.com/@ashlyncmatthews) - **LIKES: 53**
+- **2021-12-31 - FREE** - [@RealTryHackMe #AdventOfCyber Series: Challenge 3 — Christmas Blackout](https://medium.com/@jmjackson2011/realtryhackme-adventofcyber-series-challenge-3-christmas-blackout-cc5577c45efd)  By  [jmjackson2011](https://medium.com/@jmjackson2011) - **LIKES: 0**
+- **2021-12-31 - FREE** - [@RealTryHackMe #AdventOfCyber Series: Challenge 6 — Patch Management Is Hard…](https://medium.com/@jmjackson2011/realtryhackme-adventofcyber-series-challenge-6-patch-management-is-hard-c33fa7b4ac9a)  By  [jmjackson2011](https://medium.com/@jmjackson2011) - **LIKES: 0**
+- **2022-01-09 - FREE** - [HackTheBox — Previse Walkthrough](https://iammainul.medium.com/hackthebox-previse-walkthrough-49950c75d849)  By  [iammainul](https://medium.com/@iammainul) - **LIKES: 7**
+- **2022-01-22 - FREE** - [HackTheBox-Forge](https://arz101.medium.com/hackthebox-forge-825e5ef75e59)  By  [arz101](https://medium.com/@arz101) - **LIKES: 6**
+- **2022-01-22 - FREE** - [HackTheBox [FORGE]](https://medium.com/@maximusr86/hackthebox-forge-43c05973589)  By  [maximusr86](https://medium.com/@maximusr86) - **LIKES: 1**
+- **2022-01-29 - FREE** - [HackTheBox Anubis](https://ericazelic.medium.com/hackthebox-anubis-ca69f9d0e931)  By  [ericazelic](https://medium.com/@ericazelic) - **LIKES: 2**
+- **2022-02-05 - PAID** - [HackTheBox: Horizontall](https://systemweakness.com/hackthebox-horizontall-482ab0b9a124)  By  [bin3xish477](https://medium.com/@bin3xish477) - **LIKES: 9**
+- **2022-02-10 - FREE** - [HackTheBox: Horizontall Writeup](https://scritty.medium.com/hackthebox-horizontall-writeup-98e6bfa303a5)  By  [scritty](https://medium.com/@scritty) - **LIKES: 0**
+- **2022-02-19 - FREE** - [HackTheBox-Bolt](https://arz101.medium.com/hackthebox-bolt-d8c2317118f4)  By  [arz101](https://medium.com/@arz101) - **LIKES: 53**
+- **2022-02-26 - FREE** - [Flatline TryHackMe Walkthrough](https://musyokaian.medium.com/flatline-tryhackme-walkthrough-4d3fa85bcf9b)  By  [musyokaian](https://medium.com/@musyokaian) - **LIKES: 13**
+- **2022-03-05 - FREE** - [Oh My WebServer TryHackMe Walkthrough](https://musyokaian.medium.com/oh-my-webserver-tryhackme-walkthrough-adcf3f4e0cf8)  By  [musyokaian](https://medium.com/@musyokaian) - **LIKES: 22**
+- **2022-03-17 - FREE** - [TryHackMe: [Day 1] Web Exploitation Save The Gifts](https://medium.com/@mathen/tryhackme-day-1-web-exploitation-save-the-gifts-5d6824a52e67)  By  [mathen](https://medium.com/@mathen) - **LIKES: 0**
+- **2022-03-23 - FREE** - [LFI | TryHackMe (THM)](https://medium.com/@Aircon/lfi-tryhackme-thm-2a6e824f01d2)  By  [Aircon](https://medium.com/@Aircon) - **LIKES: 0**
+- **2022-04-16 - FREE** - [Tech_Supp0rt TryHackMe Walkthough](https://musyokaian.medium.com/tech-supp0rt-tryhackme-walkthough-dcb2376c0890)  By  [musyokaian](https://medium.com/@musyokaian) - **LIKES: 24**
+- **2022-05-07 - FREE** - [File Inclusion | TryHackMe (THM)](https://medium.com/@Aircon/file-inclusion-tryhackme-thm-5dae64d5dae4)  By  [Aircon](https://medium.com/@Aircon) - **LIKES: 2**
+- **2022-05-28 - FREE** - [HackTheBox-Admirertoo](https://arz101.medium.com/hackthebox-admirertoo-c55ef0974caa)  By  [arz101](https://medium.com/@arz101) - **LIKES: 16**
+- **2022-07-05 - FREE** - [TryHackMe | Ollie Writeup](https://systemweakness.com/tryhackme-ollie-writeup-c0f46bd315cc)  By  [aaron_199](https://medium.com/@aaron_199) - **LIKES: 55**
+- **2022-07-14 - FREE** - [Vulnversity | TryHackMe Write-Up](https://medium.com/@_Jota_/tryhackme-vulnversity-room-214fea1bb3a3)  By  [_Jota_](https://medium.com/@_Jota_) - **LIKES: 0**
+- **2022-07-30 - FREE** - [HackTheBox — Late](https://arz101.medium.com/hackthebox-late-8059c0c6de63)  By  [arz101](https://medium.com/@arz101) - **LIKES: 8**
+- **2022-07-30 - FREE** - [Late — Hackthebox Walkthrough](https://kavigihan.medium.com/late-hackthebox-walkthrough-95193b58c123)  By  [kavigihan](https://medium.com/@kavigihan) - **LIKES: 5**
+- **2022-07-31 - FREE** - [TryHackMe Room writeup CyberHeroes](https://medium.com/@WriteupsTHM_HTB_CTF/tryhackme-room-writeup-cyberheroes-8a9a4ef8cc49)  By  [WriteupsTHM_HTB_CTF](https://medium.com/@WriteupsTHM_HTB_CTF) - **LIKES: 1**
+- **2022-08-05 - FREE** - [Atlassian, CVE-2022–26134 — TryHackMe Walkthrough](https://hasanka-amarasinghe.medium.com/atlassian-cve-2022-26134-tryhackme-walkthrough-b6aa9e8a918d)  By  [hasanka-amarasinghe](https://medium.com/@hasanka-amarasinghe) - **LIKES: 0**
+- **2022-08-06 - FREE** - [Agent-T TryHackMe CTF writeup](https://systemweakness.com/agent-t-tryhackme-ctf-writeup-1b8873554a0)  By  [splitunknown](https://medium.com/@splitunknown) - **LIKES: 0**
+- **2022-08-06 - FREE** - [Agent T TryHackMe Walkthrough](https://musyokaian.medium.com/agent-t-tryhackme-walkthrough-1a13deba46fa)  By  [musyokaian](https://medium.com/@musyokaian) - **LIKES: 7**
+- **2022-08-07 - FREE** - [Agent T — TryHackMe Walkthrough](https://hasanka-amarasinghe.medium.com/agent-t-tryhackme-walkthrough-f5b01e474aa1)  By  [hasanka-amarasinghe](https://medium.com/@hasanka-amarasinghe) - **LIKES: 0**
+- **2022-08-08 - FREE** - [TryHackMe: Bolt Write-up](https://scritty.medium.com/tryhackme-bolt-write-up-6a05d16ed58c)  By  [scritty](https://medium.com/@scritty) - **LIKES: 2**
+- **2022-08-08 - FREE** - [TryHackMe — CyberHeroes](https://r4bb1t.medium.com/tryhackme-cyberheroes-502fe7c4bfd9)  By  [r4bb1t](https://medium.com/@r4bb1t) - **LIKES: 0**
+- **2022-08-10 - FREE** - [Write-up: Pickle Rick @ TryHackMe](https://infosecwriteups.com/write-up-pickle-rick-tryhackme-6a3c838507c2)  By  [frank.leitner](https://medium.com/@frank.leitner) - **LIKES: 0**
+- **2022-08-11 - FREE** - [CyberHeroes — TryHackme CTF Writeup](https://hasanka-amarasinghe.medium.com/cyberheroes-tryhackme-ctf-writeup-166d4c54c05e)  By  [hasanka-amarasinghe](https://medium.com/@hasanka-amarasinghe) - **LIKES: 0**
+- **2022-08-16 - FREE** - [HacktheBox[Meta]](https://medium.com/@maximusr86/hackthebox-meta-4844ad8c4584)  By  [maximusr86](https://medium.com/@maximusr86) - **LIKES: 0**
+- **2022-09-24 - FREE** - [Seventeen — Hackthebox walkthrough](https://kavigihan.medium.com/seventeen-hackthebox-walkthrough-d92c026b04bc)  By  [kavigihan](https://medium.com/@kavigihan) - **LIKES: 11**
+- **2022-10-15 - FREE** - [Surfer TryHackMe walkthrough](https://musyokaian.medium.com/surfer-tryhackme-walkthrough-de404fead9d7)  By  [musyokaian](https://medium.com/@musyokaian) - **LIKES: 5**
+- **2022-10-19 - FREE** - [A Writeup on Pickle Rick from TryHackMe](https://medium.com/@marshal_demi/a-writeup-on-pickle-rick-from-tryhackme-eeb26a8f8d6c)  By  [marshal_demi](https://medium.com/@marshal_demi) - **LIKES: 1**
+- **2022-10-22 - FREE** - [HackTheBox-Faculty](https://arz101.medium.com/hackthebox-faculty-2c00ec17192a)  By  [arz101](https://medium.com/@arz101) - **LIKES: 10**
+- **2022-11-05 - FREE** - [Moderators — Hackthebox Walkthrough](https://kavigihan.medium.com/moderators-hackthebox-walkthrough-13eedb471eda)  By  [kavigihan](https://medium.com/@kavigihan) - **LIKES: 0**
+- **2022-11-11 - FREE** - [TryHackMe Year Of The Pig Write Up](https://h4ck3rshivam.medium.com/tryhackme-year-of-the-pig-write-up-a477345b2798)  By  [h4ck3rshivam](https://medium.com/@h4ck3rshivam) - **LIKES: 0**
+- **2022-11-13 - PAID** - [Neighbour Tryhackme](https://medium.com/@WriteupsTHM_HTB_CTF/neighbour-tryhackme-d0061bb280f)  By  [WriteupsTHM_HTB_CTF](https://medium.com/@WriteupsTHM_HTB_CTF) - **LIKES: 0**
+- **2022-11-26 - FREE** - [HackTheBox — RedPanda](https://arz101.medium.com/hackthebox-redpanda-49166412bee9)  By  [arz101](https://medium.com/@arz101) - **LIKES: 8**
+- **2022-11-26 - FREE** - [RedPanda — Hackthebox walkthrough](https://kavigihan.medium.com/redpanda-hackthebox-walkthrough-4a38bcfc7d8d)  By  [kavigihan](https://medium.com/@kavigihan) - **LIKES: 5**
+- **2022-12-07 - FREE** - [TryHackMe Advent of Cyber [Day 7]-> CyberChef](https://medium.com/@Adstefnum/tryhackme-advent-of-cyber-day-7-cyberchef-8b6c7b020ed2)  By  [Adstefnum](https://medium.com/@Adstefnum) - **LIKES: 1**
+- **2022-12-14 - FREE** - [Advent of Cyber 4 (2022): Day 14 Write-up](https://systemweakness.com/advent-of-cyber-4-2022-day-14-write-up-tryhackme-2d6013d64794)  By  [farhadanwari58](https://medium.com/@farhadanwari58) - **LIKES: 44**
+- **2023-01-07 - FREE** - [HackTheBox — Health](https://arz101.medium.com/hackthebox-health-ea032e823d82)  By  [arz101](https://medium.com/@arz101) - **LIKES: 15**
+- **2023-01-14 - FREE** - [HackTheBox — Shoppy](https://arz101.medium.com/hackthebox-shoppy-64cbe52964ed)  By  [arz101](https://medium.com/@arz101) - **LIKES: 52**
+- **2023-01-15 - FREE** - [HacktheBox[Shoppy]](https://medium.com/@maximusr86/hackthebox-shoppy-a6f110f06b60)  By  [maximusr86](https://medium.com/@maximusr86) - **LIKES: 0**
+- **2023-01-28 - FREE** - [Ambassador — Hackthebox walkthorugh](https://kavigihan.medium.com/ambassador-hackthebox-walkthorugh-232b68a73832)  By  [kavigihan](https://medium.com/@kavigihan) - **LIKES: 1**
+- **2023-01-28 - FREE** - [HackTheBox — Ambassador](https://arz101.medium.com/hackthebox-ambassador-f8201657d551)  By  [arz101](https://medium.com/@arz101) - **LIKES: 7**
+- **2023-02-18 - FREE** - [TryHackMe | Dogcat Write-Up](https://medium.com/@harellevy159/tryhackme-dogcat-write-up-220ec3d80dfd)  By  [harellevy159](https://medium.com/@harellevy159) - **LIKES: 0**
+- **2023-03-05 - FREE** - [Bugged: TryHackMe Write up](https://xtanner.medium.com/bugged-tryhackme-write-up-3f5e811b621f)  By  [xtanner](https://medium.com/@xtanner) - **LIKES: 4**
+- **2023-03-20 - FREE** - [Tactics — HackTheBox (Starting Point)](https://medium.com/@bl34chchig0/tactics-hackthebox-starting-point-6ef40cda264a)  By  [bl34chchig0](https://medium.com/@bl34chchig0) - **LIKES: 4**
+- **2023-03-26 - FREE** - [Jerry — HackTheBox (Write-Up)](https://medium.com/@bl34chchig0/jerry-hackthebox-write-up-275c9f6144d7)  By  [bl34chchig0](https://medium.com/@bl34chchig0) - **LIKES: 6**
+- **2023-04-23 - PAID** - [File Inclusion — TryHackMe Simple Write up | 2023](https://infosecwriteups.com/file-inclusion-tryhackme-simple-write-up-2023-b839772fd432)  By  [cyberw1ng](https://medium.com/@cyberw1ng) - **LIKES: 73**
+- **2023-04-29 - FREE** - [HackTheBox Meta-Two](https://arz101.medium.com/hackthebox-meta-two-3cb21b2818cb)  By  [arz101](https://medium.com/@arz101) - **LIKES: 35**
+- **2023-05-06 - FREE** - [HackTheBox — Flight](https://arz101.medium.com/hackthebox-flight-8bd943791ede)  By  [arz101](https://medium.com/@arz101) - **LIKES: 0**
+- **2023-05-10 - PAID** - [TryHackMe — Res Room Simple Writeup By Karthikeyan Nagaraj](https://infosecwriteups.com/tryhackme-res-room-simple-writeup-by-karthikeyan-nagaraj-8320a012b7c7)  By  [cyberw1ng](https://medium.com/@cyberw1ng) - **LIKES: 51**
+- **2023-06-03 - FREE** - [HackTheBox — Bagel](https://arz101.medium.com/hackthebox-bagel-53f733fc517c)  By  [arz101](https://medium.com/@arz101) - **LIKES: 35**
+- **2023-06-14 - FREE** - [Responder HackTheBox Walkthrough](https://medium.com/@infosecnubes/responder-hackthebox-walkthrough-f686dad57990)  By  [infosecnubes](https://medium.com/@infosecnubes) - **LIKES: 6**
+- **2023-06-21 - FREE** - [Oopsie HackTheBox Walktrough](https://medium.com/@infosecnubes/oopsie-hackthebox-walktrough-dd3118051d28)  By  [infosecnubes](https://medium.com/@infosecnubes) - **LIKES: 33**
+- **2023-06-24 - FREE** - [HackTheBox — Stocker](https://arz101.medium.com/hackthebox-stocker-57c4caec9a8e)  By  [arz101](https://medium.com/@arz101) - **LIKES: 8**
+- **2023-07-03 - FREE** - [HackTheBox : Sandworm (SSTI)](https://starlox.medium.com/hackthebox-sandworm-ssti-a50bb666849b)  By  [starlox](https://medium.com/@starlox) - **LIKES: 35**
+- **2023-07-04 - FREE** - [HackTheBox — Kotarak Write-Up](https://medium.com/@emily_81180/hackthebox-kotarak-write-up-120c1943da40)  By  [emily_81180](https://medium.com/@emily_81180) - **LIKES: 0**
+- **2023-07-11 - FREE** - [HackTheBox “Poison” Walkthrough](https://cyberkareem.medium.com/hackthebox-poison-walkthrough-5b41f148a54)  By  [cyberkareem](https://medium.com/@cyberkareem) - **LIKES: 2**
+- **2023-07-25 - FREE** - [File Inclusion | Tryhackme Walkthrough](https://rahulk2903.medium.com/file-inclusion-tryhackme-walkthrough-99288e6dd348)  By  [rahulk2903](https://medium.com/@rahulk2903) - **LIKES: 74**
+- **2023-07-29 - FREE** - [HackTheBox — Cerberus](https://arz101.medium.com/hackthebox-cerberus-cfad3132aee6)  By  [arz101](https://medium.com/@arz101) - **LIKES: 76**
+- **2023-08-25 - FREE** - [HackTheBox — OnlyForYou](https://arz101.medium.com/hackthebox-onlyforyou-e19fcafec920)  By  [arz101](https://medium.com/@arz101) - **LIKES: 0**
+- **2023-09-02 - FREE** - [HackTheBox — MointorsTwo](https://arz101.medium.com/hackthebox-mointorstwo-bf4d0f8c2c54)  By  [arz101](https://medium.com/@arz101) - **LIKES: 3**
+- **2023-11-02 - FREE** - [CMesS (TryHackMe Walkthrough)](https://medium.com/@pr0tag0nist/cmess-tryhackme-walkthrough-7ff6f6a6d0dc)  By  [pr0tag0nist](https://medium.com/@pr0tag0nist) - **LIKES: 18**
+- **2023-12-11 - FREE** - [Analytics | HackTheBox Guide](https://medium.com/@jamesjarviscyber/analytics-hackthebox-guide-a4947a6496ad)  By  [jamesjarviscyber](https://medium.com/@jamesjarviscyber) - **LIKES: 5**
+- **2023-12-22 - PAID** - [Advent of Cyber 2023 — Day 22 Writeup with Answers by Karthikeyan Nagaraj | TryHackMe Walkthrough](https://infosecwriteups.com/advent-of-cyber-2023-day-22-writeup-with-answers-by-karthikeyan-nagaraj-tryhackme-walkthrough-5efc0f3262f2)  By  [cyberw1ng](https://medium.com/@cyberw1ng) - **LIKES: 103**
+- **2023-12-23 - PAID** - [TryHackme’s Advent of Cyber 2023 — Day 22 Writeup](https://nandasiddhardha.medium.com/tryhackmes-advent-of-cyber-2023-day-22-writeup-2e7273273df4)  By  [nandasiddhardha](https://medium.com/@nandasiddhardha) - **LIKES: 111**
+- **2024-01-19 - PAID** - [TryHackMe: Take over GitLab account through reset passwords token](https://medium.com/@hhphu/tryhackme-take-over-gitlab-account-through-reset-passwords-token-08df932343f9)  By  [hhphu](https://medium.com/@hhphu) - **LIKES: 1**
+- **2024-04-14 - FREE** - [TryHackMe Creative Write-Up](https://blog.devgenius.io/tryhackme-creative-write-up-f29e2cdbf7ae)  By  [josephalan17201972](https://medium.com/@josephalan17201972) - **LIKES: 10**
+- **2024-04-17 - FREE** - [Pickle Rick — TryHackMe’s Rick & Morty Room](https://medium.com/@chryb3r/pickle-rick-tryhackmes-rick-morty-room-0083c5ad6f9f)  By  [chryb3r](https://medium.com/@chryb3r) - **LIKES: 0**
+- **2024-04-18 - FREE** - [Creative — TryHackMe](https://medium.com/@niedhacker/creative-tryhackme-44a65eaee5d5)  By  [niedhacker](https://medium.com/@niedhacker) - **LIKES: 14**
+- **2024-04-25 - PAID** - [TryHackMe | TryHack3M: Bricks Heist | WriteUp](https://axoloth.medium.com/tryhackme-tryhack3m-bricks-heist-writeup-dd75158ba437)  By  [axoloth](https://medium.com/@axoloth) - **LIKES: 3**
+- **2024-05-15 - FREE** - [TryHackMe - Network Services](https://infosecwriteups.com/tryhackme-network-services-08874b587a38)  By  [david-varghese](https://medium.com/@david-varghese) - **LIKES: 55**
+- **2024-06-01 - FREE** - [TryHackMe - Network Services 2](https://infosecwriteups.com/tryhackme-network-services-2-28f4baaa2a09)  By  [david-varghese](https://medium.com/@david-varghese) - **LIKES: 59**
+- **2024-06-22 - FREE** - [Poison HackTheBox Write-up](https://medium.com/@sam_0x0/poison-hackthebox-write-up-d70ca876ee2d)  By  [sam_0x0](https://medium.com/@sam_0x0) - **LIKES: 0**
+- **2024-07-24 - PAID** - [TryHackMe | Cactus | WriteUp](https://medium.com/h7w/tryhackme-cactus-writeup-37bc4d8445d5)  By  [axoloth](https://medium.com/@axoloth) - **LIKES: 50**
+- **2024-08-22 - FREE** - [Vulnversity: TryHackMe Walkthrough](https://infosecwriteups.com/vulnversity-tryhackme-walkthrough-eb2a26f9fa5e)  By  [sudeepashiranthaka97](https://medium.com/@sudeepashiranthaka97) - **LIKES: 5**
+- **2024-08-22 - PAID** - [TryHackMe | PaperCut: CVE-2023–27350 | WriteUp](https://systemweakness.com/tryhackme-papercut-cve-2023-27350-writeup-6e5c469d4ce1)  By  [axoloth](https://medium.com/@axoloth) - **LIKES: 0**
+- **2024-08-25 - FREE** - [PaperCut: CVE-2023–27350 TryHackMe Writeup](https://ansul71098.medium.com/papercut-cve-2023-27350-tryhackme-writeup-03a50af62c3f)  By  [ansul71098](https://medium.com/@ansul71098) - **LIKES: 28**
+- **2024-09-19 - FREE** - [Mustacchio — TryHackMe Room](https://medium.com/@akhshaytp21/mustacchio-tryhackme-room-67329374fc0a)  By  [akhshaytp21](https://medium.com/@akhshaytp21) - **LIKES: 1**
+- **2024-09-23 - FREE** - [Laravel Admin Exploit | HackTheBox Usage Writeup](https://motasemhamdan.medium.com/laravel-admin-exploit-hackthebox-usage-writeup-181ec9508133)  By  [motasemhamdan](https://medium.com/@motasemhamdan) - **LIKES: 1**
+- **2024-10-13 - PAID** - [TryHackMe | Deja Vu | WriteUp](https://medium.com/h7w/tryhackme-deja-vu-writeup-642b6b28da29)  By  [axoloth](https://medium.com/@axoloth) - **LIKES: 50**
+- **2024-10-28 - FREE** - [HackTheBox — Mist](https://arz101.medium.com/hackthebox-mist-c23cdea69ca5)  By  [arz101](https://medium.com/@arz101) - **LIKES: 1**
+- **2024-11-02 - FREE** - [Whiterose TryHackMe Motion Graphics Writeup | Easy Room | Detailed THM Walkthrough](https://sunnysinghverma.medium.com/whiterose-tryhackme-motion-graphics-writeup-easy-room-detailed-thm-walkthrough-972ee9129fe2)  By  [sunnysinghverma](https://medium.com/@sunnysinghverma) - **LIKES: 166**
+- **2024-12-04 - FREE** - [Day 3 TryHackMe | Advent of Cyber 2024](https://gdbhackerone.medium.com/day-3-tryhackme-advent-of-cyber-2024-be3592bcb47b)  By  [gdbhackerone](https://medium.com/@gdbhackerone) - **LIKES: 0**
+- **2024-12-06 - PAID** - [TryHackMe — Advent of Cyber 2024: Day 5: SOC-mas XX-what-ee?](https://medium.com/@hhphu/tryhackme-advent-of-cyber-2024-day-5-soc-mas-xx-what-ee-5bc8e68d31c5)  By  [hhphu](https://medium.com/@hhphu) - **LIKES: 0**
+- **2024-12-15 - FREE** - [TryHackMe: HTTP Browser Desync](https://medium.com/@RosanaFS/tryhackme-http-browser-desync-00b7d1d8c804)  By  [RosanaFS](https://medium.com/@RosanaFS) - **LIKES: 0**
+- **2024-12-18 - FREE** - [[EN] TryHackMe Advent of Cyber 2024: Day 5](https://medium.com/@fadilaahmads/en-tryhackme-advent-of-cyber-2024-day-5-0813180ed418)  By  [fadilaahmads](https://medium.com/@fadilaahmads) - **LIKES: 0**
+- **2024-12-26 - FREE** - [TryHackme . TryHack3M: Bricks Heist](https://medium.com/@RosanaFS/tryhackme-tryhack3m-bricks-heist-ae7b41ea195c)  By  [RosanaFS](https://medium.com/@RosanaFS) - **LIKES: 0**
+- **2025-01-04 - FREE** - [TryHackMe Walkthrough: Debug](https://medium.com/@RosanaFS/tryhackme-walkthrough-debug-04b440effa67)  By  [RosanaFS](https://medium.com/@RosanaFS) - **LIKES: 0**
