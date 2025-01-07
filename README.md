@@ -25,7 +25,7 @@ This repo is still in a development state, so any help or Idea would be apprecia
 - [Graphql Hacking](https://github.com/x1337loser/bug-bounty-writeup/blob/main/src/graphql.md)
 - [Articles Contains Keyword 'Hacking'](https://github.com/x1337loser/bug-bounty-writeup/blob/main/src/hacking-keyword.md)
 - [Articles Contains Keyword 'How to'](https://github.com/x1337loser/bug-bounty-writeup/blob/main/src/how-to.md)
-- [Insecure Direct Object Reference (IDOR)](https://github.com/x1337loser/bug-bounty-writeup/blob/main/src/idor.md)
+- [Insecure Direct Object Reference (IDOR) & Broken Access Control Issue](https://github.com/x1337loser/bug-bounty-writeup/blob/main/src/idor.md)
 - [Articles Contains Keyword 'infosec'](https://github.com/x1337loser/bug-bounty-writeup/blob/main/src/info-keword.md)
 - [Injection Related Articles](https://github.com/x1337loser/bug-bounty-writeup/blob/main/src/injection.md)
 - [iOS Application & Related Articles](https://github.com/x1337loser/bug-bounty-writeup/blob/main/src/ios.md)
