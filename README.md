@@ -12,6 +12,7 @@ This repo is still in a development state, so any help or Idea would be apprecia
 - [Application Security Related Articles](https://github.com/x1337loser/bug-bounty-writeup/blob/main/src/application-security.md)
 - [Account Takeover Articles](https://github.com/x1337loser/bug-bounty-writeup/blob/main/src/ato.md)
 - [Authentication & Authorization Articles](https://github.com/x1337loser/bug-bounty-writeup/blob/main/src/auth-n-auth.md)
+- [Host Header Injection Attack](https://github.com/x1337loser/bug-bounty-writeup/blob/main/src/host-header-injection.md)
 - [Blockchain Security Related Articles](https://github.com/x1337loser/bug-bounty-writeup/blob/main/src/blockchain.md)
 - [Articles Contains Keyword 'bounty'](https://github.com/x1337loser/bug-bounty-writeup/blob/main/src/bounty.md)
 - [Cache Poisoning Related Articles](https://github.com/x1337loser/bug-bounty-writeup/blob/main/src/cache-poisoning.md)
