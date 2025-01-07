@@ -31,7 +31,7 @@ This repo is still in a development state, so any help or Idea would be apprecia
 - [iOS Application & Related Articles](https://github.com/x1337loser/bug-bounty-writeup/blob/main/src/ios.md)
 - [JSON Web Tokens (JWT)](https://github.com/x1337loser/bug-bounty-writeup/blob/main/src/jwt-security.md)
 - [Memory Leak](https://github.com/x1337loser/bug-bounty-writeup/blob/main/src/memory-leak.md)
-- [Misconfiguration Related Articles](https://github.com/x1337loser/bug-bounty-writeup/blob/main/src/misconfig.md)
+- [Misconfiguration & Request Smuggling Related Articles](https://github.com/x1337loser/bug-bounty-writeup/blob/main/src/misconfig.md)
 - [Normal Bug Bounty Related Articles](https://github.com/x1337loser/bug-bounty-writeup/blob/main/src/normal-bb-writeup.md)
 - [Oauth Related Articles](https://github.com/x1337loser/bug-bounty-writeup/blob/main/src/oauth.md)
 - [Open Redirect](https://github.com/x1337loser/bug-bounty-writeup/blob/main/src/open-redirect.md)
